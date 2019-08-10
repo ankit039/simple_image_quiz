@@ -1,0 +1,43 @@
+body 
+{
+ background-image: url("back.jpg");
+ font-family: "segoe-ui", "open-sans", tahoma, arial;
+}
+h1 
+{
+  color: #000000;
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: 0.015em;
+}
+input[type=text], input[type=password] 
+{
+  width: 16%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
+button {
+  background-color: #808080;
+  color: black;
+  padding: 15px 15px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+  width: 8%;
+  border-radius: 25px;
+}
+buttonx {
+  background-color: #808080;
+  color: black;
+  padding: 15px 15px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+  border-radius: 25px;
+}
