@@ -8,7 +8,6 @@
 </head>
 
 <body>
-
 <form action="q1connect.php" method="post">
 <div class="box black">
 <div align="center">
@@ -24,6 +23,5 @@
   </div>
 </div>
 </form>
-
 </body>
 </html>
