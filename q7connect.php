@@ -17,4 +17,5 @@ if($answer=='PIXL')
 			header("location: q7.php?wrong_answer");
 			exit();
         }
+//edit
 ?>
