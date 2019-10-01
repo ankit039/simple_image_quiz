@@ -37,4 +37,6 @@ if(isset($_SESSION["confirm"])=='atom')
             else{
                     echo ('<meta http-equiv="refresh" content="0; URL=q1.php">');
                 }
+//edit
+
 ?>
