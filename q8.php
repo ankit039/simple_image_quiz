@@ -37,4 +37,5 @@ if(isset($_SESSION["confirm"])=='PIXL')
             else{
                     echo ('<meta http-equiv="refresh" content="0; URL=q1.php">');
                 }
+//edit
 ?>
